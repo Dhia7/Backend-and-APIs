@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Dhia Naija",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dhia7/Backend-and-APIs.git"
+  }
+  
 }
